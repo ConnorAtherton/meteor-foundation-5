@@ -9,13 +9,6 @@ Package.on_use(function (api) {
       asset_path = path.join('foundation');
 
   // js
-  // api.add_files(path.join(asset_path, 'js', 'custom.modernizr.js'), 'client');
-  // api.add_files(path.join(asset_path, 'js', 'vendor/fastclick.js'), 'client');
-  // api.add_files(path.join(asset_path, 'js', 'vendor/jquery.autocomplete.js'), 'client');
-  // api.add_files(path.join(asset_path, 'js', 'vendor/jquery.cookie.js'), 'client');
-  // api.add_files(path.join(asset_path, 'js', 'vendor/placeholder.js'), 'client');
-  // api.add_files(path.join(asset_path, 'js', 'foundation.js'), 'client');
-  // api.add_files(path.join(asset_path, 'js', 'activate.js'), 'client');
   api.add_files(path.join(asset_path, 'js/vendor/custom.modernizr.js'), 'client');
   api.add_files(path.join(asset_path, 'js/vendor/fastclick.js'), 'client');
   api.add_files(path.join(asset_path, 'js/vendor/jquery.autocomplete.js'), 'client');
