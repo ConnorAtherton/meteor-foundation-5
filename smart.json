@@ -1,0 +1,9 @@
+{
+  "name": "Foundation 5",
+  "description": "Foundation 5 packaged for meteor.",
+  "homepage": "https://github.com/ConnorAtherton/meteor-foundation-5",
+  "author": "Connor Atherton (http://connoratherton.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/ConnorAtherton/meteor-foundation-5.git",
+  "packages": { }
+}
